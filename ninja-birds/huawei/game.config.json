@@ -1,0 +1,12 @@
+{
+  "game_id": "huawei",
+  "package_name": "com.ninja.birds",
+  "store": "Huawei",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://example.com/ads.json",
+  "store_url": "",
+  "privacy_policy_url": "",
+  "support_url": ""
+}

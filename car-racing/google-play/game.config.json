@@ -1,0 +1,12 @@
+{
+  "game_id": "google-play",
+  "package_name": "com.car.racing",
+  "store": "Google Play",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://example.com/ads.json",
+  "store_url": "",
+  "privacy_policy_url": "",
+  "support_url": ""
+}

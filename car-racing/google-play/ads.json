@@ -1,0 +1,50 @@
+{
+  "ads_enabled": true,
+  "banner_enabled": false,
+  "app_open_enabled": false,
+  "ads_provider": "AdMob",
+  "interstitial_interval_seconds": 90,
+  "interstitial_every_n_calls": 2,
+  "yandex": {
+    "android": {
+      "app_open_id": "",
+      "interstitial_id": "",
+      "banner_id": "",
+      "rewarded_id": ""
+    }
+  },
+  "ironsource": {
+    "app_id": "",
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  },
+  "admob": {
+    "app_open": "",
+    "interstitial": "",
+    "banner": "",
+    "rewarded": ""
+  },
+  "applovin": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  },
+  "unity": {
+    "game_id": "",
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  },
+  "vungle": {
+    "app_id": "",
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  },
+  "meta": {
+    "banner": "",
+    "interstitial": "",
+    "rewarded": ""
+  }
+}
