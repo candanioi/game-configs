@@ -1,28 +1,12 @@
 {
-  "generatedAt": "2026-06-07T13:59:33.145Z",
-  "totalGames": 3,
+  "generatedAt": "2026-06-08T18:27:02.848Z",
+  "totalGames": 1,
   "games": [
     {
-      "name": "Ninja Birds",
-      "slug": "ninja-birds",
+      "name": "Toca Life: World Design Story",
+      "slug": "toca-life-world-design-story",
       "stores": [
-        "rustore",
-        "xiaomi",
-        "huawei"
-      ]
-    },
-    {
-      "name": "Car Racing",
-      "slug": "car-racing",
-      "stores": [
-        "google-play"
-      ]
-    },
-    {
-      "name": "Toca House",
-      "slug": "toca-house",
-      "stores": [
-        "rustore"
+        "xiaomi"
       ]
     }
   ]
