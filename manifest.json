@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-06-08T23:20:18.187Z",
+  "generatedAt": "2026-06-08T23:41:03.745Z",
   "totalGames": 1,
   "games": [
     {
-      "name": "Car Racing",
-      "slug": "car-racing",
+      "name": "Toca Life: World Design Story",
+      "slug": "toca-life-world-design-story",
       "stores": [
-        "google-play"
+        "xiaomi"
       ]
     }
   ]
