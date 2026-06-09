@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-06-09T00:15:49.780Z",
+  "generatedAt": "2026-06-09T00:17:14.537Z",
   "totalGames": 1,
   "games": [
     {
       "name": "Toca Life: World Design Story",
       "slug": "toca-life-world-design-story",
       "stores": [
-        "xiaomi"
+        "xiaomi",
+        "rustore"
       ]
     }
   ]
