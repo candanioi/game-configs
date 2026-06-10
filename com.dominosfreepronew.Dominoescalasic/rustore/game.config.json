@@ -1,0 +1,13 @@
+{
+  "game_id": "rustore",
+  "package_name": "com.dominosfreepronew.Dominoescalasic",
+  "store": "rustore",
+  "provider": "yandex",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.dominosfreepronew.Dominoescalasic/rustore/ads.json",
+  "store_url": "https://www.rustore.ru/catalog/app/com.dominosfreepronew.Dominoescalasic",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
