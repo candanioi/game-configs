@@ -5,7 +5,7 @@
   "ads_provider": "YANDEX",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 1,
-  "native_enabled": true,
+  "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
     "android": {
