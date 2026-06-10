@@ -1,13 +1,12 @@
 {
-  "generatedAt": "2026-06-10T12:12:49.625Z",
+  "generatedAt": "2026-06-10T12:14:23.910Z",
   "totalGames": 1,
   "games": [
     {
-      "name": "Toca Life: World Design Story",
-      "slug": "toca-life-world-design-story",
+      "name": "Dominoes Classic",
+      "slug": "dominoes-classic",
       "stores": [
-        "rustore",
-        "xiaomi"
+        "rustore"
       ]
     }
   ]
