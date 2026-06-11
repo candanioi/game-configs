@@ -2,7 +2,7 @@
   "ads_enabled": true,
   "banner_enabled": false,
   "app_open_enabled": true,
-  "ads_provider": "YANDEX",
+  "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 6,
   "native_enabled": false,
