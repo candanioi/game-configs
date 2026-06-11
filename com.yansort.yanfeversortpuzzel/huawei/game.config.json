@@ -1,0 +1,13 @@
+{
+  "game_id": "huawei",
+  "package_name": "com.yansort.yanfeversortpuzzel",
+  "store": "huawei",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.yansort.yanfeversortpuzzel/huawei/ads.json",
+  "store_url": "https://appgallery.huawei.com/app/com.yansort.yanfeversortpuzzel",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
