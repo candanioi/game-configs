@@ -1,0 +1,13 @@
+{
+  "game_id": "google-play",
+  "package_name": "com.arrow.escapepuzzelinmaz",
+  "store": "google-play",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.arrow.escapepuzzelinmaz/google-play/ads.json",
+  "store_url": "https://play.google.com/store/apps/details?id=com.arrow.escapepuzzelinmaz",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
