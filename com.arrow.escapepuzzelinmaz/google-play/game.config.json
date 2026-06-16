@@ -2,7 +2,7 @@
   "game_id": "google-play",
   "package_name": "com.arrow.escapepuzzelinmaz",
   "store": "google-play",
-  "provider": "yandex",
+  "provider": "admob",
   "version": "1.0.0",
   "orientation": "portrait",
   "show_splash": true,
