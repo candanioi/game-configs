@@ -1,19 +1,19 @@
 {
   "ads_enabled": true,
   "banner_enabled": false,
-  "app_open_enabled": false,
-  "ads_provider": "ADMOB",
+  "app_open_enabled": true,
+  "ads_provider": "YANDEX",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 1,
   "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
     "android": {
-      "app_open_id": "demo-openapp-yandex",
-      "interstitial_id": "demo-interstitial-yandex",
-      "banner_id": "demo-banner-yandex",
-      "rewarded_id": "demo-rewarded-yandex",
-      "native_id": "demo-native-app-yandex"
+      "app_open_id": "R-M-19460714-2",
+      "interstitial_id": "R-M-19460714-3",
+      "banner_id": "R-M-19460714-1",
+      "rewarded_id": "R-M-19460714-4",
+      "native_id": "R-M-19460714-5"
     }
   },
   "ironsource": {
