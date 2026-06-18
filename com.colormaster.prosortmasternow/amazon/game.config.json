@@ -1,0 +1,13 @@
+{
+  "game_id": "amazon",
+  "package_name": "com.colormaster.prosortmasternow",
+  "store": "amazon",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.colormaster.prosortmasternow/amazon/ads.json",
+  "store_url": "https://www.amazon.com/gp/mas/dl/android?p=com.colormaster.prosortmasternow",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
