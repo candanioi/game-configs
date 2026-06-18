@@ -1,7 +1,7 @@
 {
   "ads_enabled": true,
   "banner_enabled": false,
-  "app_open_enabled": false,
+  "app_open_enabled": true,
   "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 1,
@@ -24,11 +24,11 @@
     "native": ""
   },
   "admob": {
-    "app_open": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917",
-    "native": "ca-app-pub-3940256099942544/2247696110"
+    "app_open": "ca-app-pub-9619609877087810/5352450901",
+    "interstitial": "ca-app-pub-9619609877087810/4103411430",
+    "banner": "ca-app-pub-9619609877087810/4275438883",
+    "rewarded": "ca-app-pub-9619609877087810/4997493617",
+    "native": "ca-app-pub-9619609877087810/8430306314"
   },
   "applovin": {
     "banner": "7a83bc8a0f6a02ad",
