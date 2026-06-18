@@ -1,0 +1,13 @@
+{
+  "game_id": "rustore",
+  "package_name": "com.blastblock.legendmatchblast",
+  "store": "rustore",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.blastblock.legendmatchblast/rustore/ads.json",
+  "store_url": "https://www.rustore.ru/catalog/app/com.blastblock.legendmatchblast",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
