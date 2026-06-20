@@ -2,7 +2,7 @@
   "game_id": "rustore",
   "package_name": "com.cityriderbike.bikesimulator",
   "store": "rustore",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "landscape",
   "show_splash": true,
