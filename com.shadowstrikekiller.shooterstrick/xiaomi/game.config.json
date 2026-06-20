@@ -2,7 +2,7 @@
   "game_id": "xiaomi",
   "package_name": "com.shadowstrikekiller.shooterstrick",
   "store": "xiaomi",
-  "provider": "yandex",
+  "provider": "admob",
   "version": "1.0.0",
   "orientation": "landscape",
   "show_splash": true,
