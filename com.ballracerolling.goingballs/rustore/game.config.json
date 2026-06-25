@@ -2,7 +2,7 @@
   "game_id": "rustore",
   "package_name": "com.ballracerolling.goingballs",
   "store": "rustore",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "landscape",
   "show_splash": true,
