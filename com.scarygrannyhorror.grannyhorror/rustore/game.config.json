@@ -1,0 +1,13 @@
+{
+  "game_id": "rustore",
+  "package_name": "com.scarygrannyhorror.grannyhorror",
+  "store": "rustore",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.scarygrannyhorror.grannyhorror/rustore/ads.json",
+  "store_url": "https://www.rustore.ru/catalog/app/com.scarygrannyhorror.grannyhorror",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
