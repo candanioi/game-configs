@@ -1,0 +1,13 @@
+{
+  "game_id": "rustore",
+  "package_name": "com.phonecaseasmr.asmrdiyart",
+  "store": "rustore",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.phonecaseasmr.asmrdiyart/rustore/ads.json",
+  "store_url": "https://www.rustore.ru/catalog/app/com.phonecaseasmr.asmrdiyart",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
