@@ -2,7 +2,7 @@
   "game_id": "huawei",
   "package_name": "com.mahjongmaster.mahjongprohub",
   "store": "huawei",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "portrait",
   "show_splash": true,
