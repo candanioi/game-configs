@@ -1,6 +1,6 @@
 {
   "ads_enabled": true,
-  "banner_enabled": false,
+  "banner_enabled": true,
   "app_open_enabled": true,
   "ads_provider": "YANDEX",
   "interstitial_interval_seconds": 90,
