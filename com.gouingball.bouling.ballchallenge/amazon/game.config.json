@@ -1,0 +1,13 @@
+{
+  "game_id": "amazon",
+  "package_name": "com.gouingball.bouling.ballchallenge",
+  "store": "amazon",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.gouingball.bouling.ballchallenge/amazon/ads.json",
+  "store_url": "https://www.amazon.com/gp/mas/dl/android?p=com.gouingball.bouling.ballchallenge",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
