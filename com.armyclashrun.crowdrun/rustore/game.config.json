@@ -2,7 +2,7 @@
   "game_id": "rustore",
   "package_name": "com.armyclashrun.crowdrun",
   "store": "rustore",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "portrait",
   "show_splash": true,
