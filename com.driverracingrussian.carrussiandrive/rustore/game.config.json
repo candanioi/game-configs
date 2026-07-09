@@ -2,7 +2,7 @@
   "game_id": "rustore",
   "package_name": "com.driverracingrussian.carrussiandrive",
   "store": "rustore",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "landscape",
   "show_splash": true,
