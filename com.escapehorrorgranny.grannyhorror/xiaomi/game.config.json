@@ -1,0 +1,13 @@
+{
+  "game_id": "xiaomi",
+  "package_name": "com.escapehorrorgranny.grannyhorror",
+  "store": "xiaomi",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.escapehorrorgranny.grannyhorror/xiaomi/ads.json",
+  "store_url": "https://global.app.mi.com/details?id=com.escapehorrorgranny.grannyhorror",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
