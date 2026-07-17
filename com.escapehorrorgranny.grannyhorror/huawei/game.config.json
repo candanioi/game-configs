@@ -1,0 +1,13 @@
+{
+  "game_id": "huawei",
+  "package_name": "com.escapehorrorgranny.grannyhorror",
+  "store": "huawei",
+  "provider": "admob",
+  "version": "1.0.0",
+  "orientation": "landscape",
+  "show_splash": true,
+  "ads_config_url": "https://candanioi.github.io/game-configs/com.escapehorrorgranny.grannyhorror/huawei/ads.json",
+  "store_url": "https://appgallery.huawei.com/app/com.escapehorrorgranny.grannyhorror",
+  "privacy_policy_url": "",
+  "support_url": ""
+}
