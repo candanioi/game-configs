@@ -9,7 +9,7 @@
   "native_position": "bottom",
   "yandex": {
     "android": {
-      "app_open_id": "demo-appopenad-yandex",
+      "app_open_id": "demo-openapp-yandex",
       "interstitial_id": "demo-interstitial-yandex",
       "banner_id": "demo-banner-yandex",
       "rewarded_id": "demo-rewarded-yandex",
