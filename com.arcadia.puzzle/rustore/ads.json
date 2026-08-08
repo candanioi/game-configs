@@ -1,10 +1,10 @@
 {
   "ads_enabled": true,
   "banner_enabled": false,
-  "app_open_enabled": false,
+  "app_open_enabled": true,
   "ads_provider": "YANDEX",
   "interstitial_interval_seconds": 90,
-  "interstitial_every_n_calls": 26,
+  "interstitial_every_n_calls": 4,
   "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
