@@ -2,7 +2,7 @@
   "game_id": "aptoide",
   "package_name": "com.climhhillefun.hillclimbracing",
   "store": "aptoide",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "portrait",
   "show_splash": true,
