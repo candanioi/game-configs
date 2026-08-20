@@ -2,14 +2,14 @@
   "ads_enabled": true,
   "banner_enabled": false,
   "app_open_enabled": true,
-  "ads_provider": "YANDEX",
+  "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 1,
   "native_enabled": true,
   "native_position": "bottom",
   "yandex": {
     "android": {
-      "app_open_id": "demo-appopenad-yandex",
+      "app_open_id": "demo-openapp-yandex",
       "interstitial_id": "demo-interstitial-yandex",
       "banner_id": "demo-banner-yandex",
       "rewarded_id": "demo-rewarded-yandex",
