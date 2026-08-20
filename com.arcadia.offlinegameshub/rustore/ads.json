@@ -1,11 +1,11 @@
 {
   "ads_enabled": true,
   "banner_enabled": false,
-  "app_open_enabled": true,
+  "app_open_enabled": false,
   "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 6,
-  "native_enabled": true,
+  "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
     "android": {
