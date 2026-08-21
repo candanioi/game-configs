@@ -1,15 +1,15 @@
 {
   "ads_enabled": true,
   "banner_enabled": false,
-  "app_open_enabled": true,
-  "ads_provider": "YANDEX",
+  "app_open_enabled": false,
+  "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
   "interstitial_every_n_calls": 8,
-  "native_enabled": true,
+  "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
     "android": {
-      "app_open_id": "demo-appopenad-yandex",
+      "app_open_id": "demo-openapp-yandex",
       "interstitial_id": "demo-interstitial-yandex",
       "banner_id": "demo-banner-yandex",
       "rewarded_id": "demo-rewarded-yandex",
@@ -24,11 +24,11 @@
     "native": ""
   },
   "admob": {
-    "app_open": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917",
-    "native": "ca-app-pub-3940256099942544/2247696110"
+    "app_open": "demo-appopenad-yandex",
+    "interstitial": "demo-interstitial-yandex",
+    "banner": "demo-banner-yandex",
+    "rewarded": "demo-rewarded-yandex",
+    "native": "demo-native-app-yandex"
   },
   "applovin": {
     "banner": "7a83bc8a0f6a02ad",
