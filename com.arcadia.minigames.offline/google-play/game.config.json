@@ -2,12 +2,12 @@
   "game_id": "google-play",
   "package_name": "com.arcadia.minigames.offline",
   "store": "google-play",
-  "provider": "admob",
+  "provider": "yandex",
   "version": "1.0.0",
   "orientation": "portrait",
   "show_splash": true,
   "ads_config_url": "https://candanioi.github.io/game-configs/com.arcadia.minigames.offline/google-play/ads.json",
-  "store_url": "https://www.rustore.ru/catalog/app/com.arcadia.minigames.offline",
+  "store_url": "https://play.google.com/store/apps/details?id=com.arcadia.minigames.offline",
   "privacy_policy_url": "",
   "support_url": ""
 }
