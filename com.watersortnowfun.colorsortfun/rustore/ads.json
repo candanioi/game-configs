@@ -4,7 +4,7 @@
   "app_open_enabled": false,
   "ads_provider": "ADMOB",
   "interstitial_interval_seconds": 90,
-  "interstitial_every_n_calls": 1,
+  "interstitial_every_n_calls": 4,
   "native_enabled": false,
   "native_position": "bottom",
   "yandex": {
