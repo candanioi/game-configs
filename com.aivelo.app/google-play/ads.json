@@ -24,11 +24,11 @@
     "native": ""
   },
   "admob": {
-    "app_open": "ca-app-pub-3940256099942544/9257395921",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917",
-    "native": "ca-app-pub-3940256099942544/2247696110"
+    "app_open": "ca-app-pub-5027177030548338/3525552622",
+    "interstitial": "ca-app-pub-5027177030548338/1495265590",
+    "banner": "ca-app-pub-5027177030548338/7554263712",
+    "rewarded": "ca-app-pub-5027177030548338/9069844143",
+    "native": "ca-app-pub-5027177030548338/7529356754"
   },
   "applovin": {
     "banner": "7a83bc8a0f6a02ad",
